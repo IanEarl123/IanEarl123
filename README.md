@@ -1,15 +1,4 @@
-## Hi, I'm Ian 👋
-
-**🚀 Data Analyst**
-
-https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white 
-
-https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black 
-
-https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white 
-
-https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=mysql&logoColor=white
-
+<img width="4032" height="1201" alt="image" src="https://github.com/user-attachments/assets/af5488e6-2ba6-4e10-bb04-58cba4911834" />
 
 
 <!--
