@@ -1,8 +1,10 @@
 ## Hi I'm Ian 
 
-[![My Skills](https://skillicons.dev/icons?i=javascript,postgresql,vscode,python,stackoverflow,github,gitlab,git&theme=dark&perline=15)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,vscode,postgresql,javascript,python,stackoverflow,github,gitlab,git,linkedin&theme=light&perline=15)](https://skillicons.dev)
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=#3776AB)
+#3776AB
 
 
 
