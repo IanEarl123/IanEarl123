@@ -3,6 +3,7 @@
 Data Analyst | Business Analyst transforming raw data into actionable insights.
 
 **TOOLS**
+
 [![My Skills](https://skillicons.dev/icons?i=html,vscode,postgresql,mysql,javascript,python,stackoverflow,github,gitlab,git,linkedin,react&theme=light&perline=15)](https://skillicons.dev)
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
